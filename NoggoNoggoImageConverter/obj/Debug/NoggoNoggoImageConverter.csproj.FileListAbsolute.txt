@@ -1,0 +1,14 @@
+d:\users\admin\documents\visual studio 2017\Projects\NoggoNoggoImageConverter\NoggoNoggoImageConverter\bin\Debug\NoggoNoggoImageConverter.exe.config
+d:\users\admin\documents\visual studio 2017\Projects\NoggoNoggoImageConverter\NoggoNoggoImageConverter\bin\Debug\NoggoNoggoImageConverter.exe
+d:\users\admin\documents\visual studio 2017\Projects\NoggoNoggoImageConverter\NoggoNoggoImageConverter\bin\Debug\NoggoNoggoImageConverter.pdb
+d:\users\admin\documents\visual studio 2017\Projects\NoggoNoggoImageConverter\NoggoNoggoImageConverter\obj\Debug\NoggoNoggoImageConverter.csprojResolveAssemblyReference.cache
+d:\users\admin\documents\visual studio 2017\Projects\NoggoNoggoImageConverter\NoggoNoggoImageConverter\obj\Debug\MainWindow.g.cs
+d:\users\admin\documents\visual studio 2017\Projects\NoggoNoggoImageConverter\NoggoNoggoImageConverter\obj\Debug\App.g.cs
+d:\users\admin\documents\visual studio 2017\Projects\NoggoNoggoImageConverter\NoggoNoggoImageConverter\obj\Debug\NoggoNoggoImageConverter_MarkupCompile.cache
+d:\users\admin\documents\visual studio 2017\Projects\NoggoNoggoImageConverter\NoggoNoggoImageConverter\obj\Debug\NoggoNoggoImageConverter_MarkupCompile.lref
+d:\users\admin\documents\visual studio 2017\Projects\NoggoNoggoImageConverter\NoggoNoggoImageConverter\obj\Debug\MainWindow.baml
+d:\users\admin\documents\visual studio 2017\Projects\NoggoNoggoImageConverter\NoggoNoggoImageConverter\obj\Debug\NoggoNoggoImageConverter.g.resources
+d:\users\admin\documents\visual studio 2017\Projects\NoggoNoggoImageConverter\NoggoNoggoImageConverter\obj\Debug\NoggoNoggoImageConverter.Properties.Resources.resources
+d:\users\admin\documents\visual studio 2017\Projects\NoggoNoggoImageConverter\NoggoNoggoImageConverter\obj\Debug\NoggoNoggoImageConverter.csproj.GenerateResource.Cache
+d:\users\admin\documents\visual studio 2017\Projects\NoggoNoggoImageConverter\NoggoNoggoImageConverter\obj\Debug\NoggoNoggoImageConverter.exe
+d:\users\admin\documents\visual studio 2017\Projects\NoggoNoggoImageConverter\NoggoNoggoImageConverter\obj\Debug\NoggoNoggoImageConverter.pdb
